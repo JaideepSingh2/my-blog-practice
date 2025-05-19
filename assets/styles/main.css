@@ -7,3 +7,16 @@
 .subscribe-button:hover {
   background-color: #0056b3;
 }
+
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+<<<<<<< HEAD
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+=======
+>>>>>>> origin/main
