@@ -1,3 +1,4 @@
+echo "temp.log" >> .gitignore
 *.log
 *.tmp
 .DS_Store
